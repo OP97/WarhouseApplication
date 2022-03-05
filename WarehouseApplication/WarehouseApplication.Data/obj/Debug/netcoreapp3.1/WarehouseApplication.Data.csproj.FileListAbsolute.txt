@@ -1,0 +1,12 @@
+C:\Users\orbey\WarhouseApplication\WarehouseApplication\warehouseapplication.data\bin\Debug\netcoreapp3.1\WarehouseApplication.Data.deps.json
+C:\Users\orbey\WarhouseApplication\WarehouseApplication\warehouseapplication.data\bin\Debug\netcoreapp3.1\WarehouseApplication.Data.runtimeconfig.json
+C:\Users\orbey\WarhouseApplication\WarehouseApplication\warehouseapplication.data\bin\Debug\netcoreapp3.1\WarehouseApplication.Data.runtimeconfig.dev.json
+C:\Users\orbey\WarhouseApplication\WarehouseApplication\warehouseapplication.data\bin\Debug\netcoreapp3.1\WarehouseApplication.Data.dll
+C:\Users\orbey\WarhouseApplication\WarehouseApplication\warehouseapplication.data\bin\Debug\netcoreapp3.1\WarehouseApplication.Data.pdb
+C:\Users\orbey\WarhouseApplication\WarehouseApplication\warehouseapplication.data\obj\Debug\netcoreapp3.1\WarehouseApplication.Data.csprojAssemblyReference.cache
+C:\Users\orbey\WarhouseApplication\WarehouseApplication\warehouseapplication.data\obj\Debug\netcoreapp3.1\WarehouseApplication.Data.AssemblyInfoInputs.cache
+C:\Users\orbey\WarhouseApplication\WarehouseApplication\warehouseapplication.data\obj\Debug\netcoreapp3.1\WarehouseApplication.Data.AssemblyInfo.cs
+C:\Users\orbey\WarhouseApplication\WarehouseApplication\warehouseapplication.data\obj\Debug\netcoreapp3.1\WarehouseApplication.Data.csproj.CoreCompileInputs.cache
+C:\Users\orbey\WarhouseApplication\WarehouseApplication\warehouseapplication.data\obj\Debug\netcoreapp3.1\WarehouseApplication.Data.dll
+C:\Users\orbey\WarhouseApplication\WarehouseApplication\warehouseapplication.data\obj\Debug\netcoreapp3.1\WarehouseApplication.Data.pdb
+C:\Users\orbey\WarhouseApplication\WarehouseApplication\warehouseapplication.data\obj\Debug\netcoreapp3.1\WarehouseApplication.Data.genruntimeconfig.cache
