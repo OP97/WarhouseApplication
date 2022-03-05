@@ -1,6 +1,7 @@
 using System.Linq;
 using System.Text.Json;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
@@ -21,7 +22,6 @@ namespace WarehouseApplication.WebApi.Controllers
             _logger = logger;
             _context = context;
         }
-
         public async Task<IActionResult> Cars()
         {
             var query = await _context.Car
