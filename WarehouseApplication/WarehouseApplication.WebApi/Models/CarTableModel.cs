@@ -1,6 +1,6 @@
 using System;
 
-namespace WarehouseApplication.WebApi
+namespace WarehouseApplication.WebApi.Models
 {
     public class CarTableModel
     {

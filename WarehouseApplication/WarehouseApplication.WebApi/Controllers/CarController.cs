@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using WarehouseApplication.Data;
+using WarehouseApplication.WebApi.Models;
 
 namespace WarehouseApplication.WebApi.Controllers
 {
