@@ -49,10 +49,6 @@ const CarList = () => {
             if (row.Licensed) {
                 setModalInfo(row);
                 updateDetailModalVisibility();
-
-            } else {
-                setModalInfo(row)
-                updateDetailModalVisibility();
             }
         }
     }
