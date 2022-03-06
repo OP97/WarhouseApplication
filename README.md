@@ -16,12 +16,13 @@
 
 Notes: This application already contains the warhouses.db file which has been seeded from the json file provided before. If you would like to test the functionality of the seeding
 you can 
-  1- Delete the database and the migrations under WarhouseApplication.Data folder
-    - cd WarehouseApplication.Data
-    - dotnet ef migrations add InitialCreate
-    - dotnet ef database update
+
+1- Delete the database and the migrations under WarhouseApplication.Data folder
+  - cd WarehouseApplication.Data
+  - dotnet ef migrations add InitialCreate
+  - dotnet ef database update
   
-  2- Perform dotnet run and database will be seeded.
+2- Perform dotnet run and database will be seeded.
   
 Car List Page with Details Modal
   
