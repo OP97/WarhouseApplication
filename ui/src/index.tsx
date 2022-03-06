@@ -5,12 +5,14 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import {BrowserRouter} from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.css";
+import "react-bootstrap-table2-paginator/dist/react-bootstrap-table2-paginator.min.css";
+import "react-bootstrap-table-next/dist/react-bootstrap-table2.min.css";
 
 ReactDOM.render(
-      <BrowserRouter>
-    <App />
-      </BrowserRouter>,
-  document.getElementById('root')
+    <BrowserRouter>
+        <App/>
+    </BrowserRouter>,
+    document.getElementById('root')
 );
 
 // If you want to start measuring performance in your app, pass a function

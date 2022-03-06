@@ -12,5 +12,7 @@ namespace WarehouseApplication.WebApi.Models
         public DateTime DateAdded { get; set; }
         public string WarehouseName { get; set; }
 
+        public bool Licensed { get; set; }
+
     }
 }

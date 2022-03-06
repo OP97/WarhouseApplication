@@ -1,5 +1,5 @@
 import http from "../common"
-import ICarData from "../types/Car";
+import {ICarData} from "../types/Car";
 
 const getAll = () => {
     return http.get<Array<ICarData>>("/car");

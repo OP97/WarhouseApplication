@@ -34,7 +34,8 @@ namespace WarehouseApplication.WebApi.Controllers
                     Price = y.Price,
                     Location = y.Location,
                     YearModel = y.YearModel,
-                    WarehouseName = y.Warehouse.Name
+                    WarehouseName = y.Warehouse.Name,
+                    Licensed = y.Licensed
                 })
                 .ToArrayAsync();
 
